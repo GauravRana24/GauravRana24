@@ -1,9 +1,6 @@
-### Hi 👋, I'M Gaurav Rana
+                       ### Hi 👋, I'M Gaurav Rana
 
-<!--
-**GauravRana24/GauravRana24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+                         A passionate Data Analyst
 
 - 🌱 I’m currently learning, upskilling myself, and exploring more about Data Analytics!
 - 🔭 My analytics toolbox contains SQL, Python, Tableau, and MS Excel.
