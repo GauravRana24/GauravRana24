@@ -1,6 +1,6 @@
-#Hi 👋, I'M Gaurav Rana
+###Hi 👋, I'M Gaurav Rana
 				      
-##A passionate Data Analyst
+				A passionate Data Analyst
 
 - 🌱 I’m currently learning, upskilling myself, and exploring more about Data Analytics!
 - 🔭 My analytics toolbox contains SQL, Python, Tableau, and MS Excel.
