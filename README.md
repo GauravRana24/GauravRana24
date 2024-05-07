@@ -1,4 +1,4 @@
-                       ### Hi 👋, I'M Gaurav Rana
+                         ### Hi 👋, I'M Gaurav Rana
 
                          A passionate Data Analyst
 
